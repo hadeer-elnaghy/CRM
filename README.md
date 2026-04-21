@@ -1,53 +1,53 @@
-# Enterprise CRM Solution 💼
-### Streamlining Customer Relations & Sales Intelligence
+# Enterprise ERP & POS Ecosystem 📊🏢
+### Unified Business Management, Accounting & E-Commerce Integration
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/hadeer-elnaghy/CRM)
-[![Framework](https://img.shields.io/badge/Framework-Laravel_10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![Framework](https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![Integration](https://img.shields.io/badge/Integration-WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)](https://woocommerce.com)
+[![Compliance](https://img.shields.io/badge/Compliance-Egyptian_eInvoicing-blue?style=for-the-badge&logo=taxfix&logoColor=white)](https://www.eta.gov.eg/)
 
-A powerful, enterprise-grade **Customer Relationship Management (CRM)** system designed to centralize operations, enhance lead conversion, and provide deep insights into sales performance. This solution was built to handle complex business workflows and foster data-driven decision-making.
-
----
-
-## 🚀 Core Functionalities
-
-### 👤 360° Customer Data Management
-Centralize and organize all customer touchpoints in one place.
-- **Unified Profiles:** Track contact details, interaction history, and diverse preferences.
-- **Purchase Tracking:** View full transaction history and behavioral patterns.
-- **Segmentation:** Categorize customers for targeted marketing and service excellence.
-
-### 📈 Lead & Opportunity Pipeline
-Transform prospects into loyal customers with advanced tracking.
-- **Sales Funnel:** Visualize lead progression through customizable pipeline stages.
-- **Opportunity Management:** Monitor potential deals and estimated closure values.
-- **Automated Routing:** Ensure the right leads reach the right team members.
-
-### 💬 Integrated Communication Hub
-Facilitate seamless interactions across multiple channels.
-- **Multichannel Support:** Integrated email, phone, and messaging tools.
-- **Engagement Logs:** Automatically record all interactions for perfect continuity.
-- **Personalization:** Use historical data to deliver tailored communication.
-
-### 📅 Task & Activity Orchestration
-Never miss a follow-up or a critical deadline.
-- **Smart Scheduling:** Manage tasks, meetings, and calls effortlessly.
-- **Intelligent Reminders:** Automated notifications for upcoming activities.
-- **Activity Tracking:** Complete audit trails of team actions and customer responses.
+A comprehensive **Enterprise Resource Planning (ERP)** solution designed to streamline core business processes, from multi-location retail and inventory to complex accounting and regulatory compliance. This system offers a unified dashboard to manage online and offline operations with real-time precision.
 
 ---
 
-## 📊 Sales Intelligence & Reporting
-Gain a competitive edge with real-time data visualization.
-- **Revenue Forecasting:** Predict future sales performance based on pipeline data.
-- **Performance Analytics:** Analyze individual and team productivity.
-- **Trend Reporting:** Identify market shifts and adjust strategies proactively.
+## 🏗️ Core Operational Modules
+
+### 💼 Multi-Entity Management
+Scalable architecture designed for growing businesses.
+- **Multiple Business Locations:** Manage infinite storefronts and warehouses from a single login.
+- **Global Settings:** Centralized control over currencies, time zones, financial years, and profit margins.
+
+### 📦 Advanced Product & Inventory
+Total control over your supply chain and stock lifecycle.
+- **Dynamic Product Engine:** Supports single, variable, and combo products with automated SKU generation.
+- **Stock Intelligence:** Real-time stock alerts, expiry tracking, and IMEI/Serial/Lot number management.
+- **Barcode Labelling:** Integrated tools for printing barcodes and custom labels.
+
+### 💰 Automated Accounting & Finance
+Full-throttle financial management for total transparency.
+- **360° Financial Tracking:** Automated tracking of income, expenses, assets, liabilities, and equity.
+- **Smart Reconciliation:** Automated invoicing, billing, and bank reconciliation.
+- **Compliance Ready:** Integrated with **Egyptian eInvoicing & eReceipt SDK** for regulatory adherence.
+
+### 🛒 High-Performance Sell & POS
+A lightning-fast Point of Sale interface optimized for high-volume transactions.
+- **Ajax-Powered Interface:** No page reloads for maximum cashier efficiency.
+- **Flexible Payments:** Supports Cash, Credit Cards, Cheques, and Bank Transfers.
+- **Commission Management:** Native support for commission agents and salesperson incentivization.
 
 ---
 
-## 📸 Media Gallery
+## ⚡ Key Integrations & Features
 
-<div align="center"><img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/screencapture-crm-logic-sbs-home-2024-04-22-22_59_25.png" width="48%" height="250" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/screencapture-crm-logic-sbs-settings-2024-04-22-23_01_27.png" width="48%" height="250" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/Screenshot%202024-04-22%20230057.png" width="48%" height="250" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/Screenshot%202024-04-22%20230019.png" width="48%" height="250" /></div>
+- **✅ WooCommerce Sync:** Real-time synchronization of inventory, orders, and customer data.
+- **✅ Powerful Reporting:** Over 20+ specialized reports with interactive filters and charts.
+- **✅ SMS & Email Hub:** Automated notifications for orders, stock levels, and payment reminders.
+- **✅ Advanced RBAC:** Granular user permissions and predefined roles (Admin, Cashier, etc.).
+
+---
+
+## 📸 System Showcase (Dashboard & POS)
+
+<div align="center"><img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-home-2024-04-22-21_46_47.png" width="380" height="250" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-pos-create-2024-04-22-21_47_22.png" width="380" height="250" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-products-2024-04-22-21_47_04.png" width="380" height="250" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-sells-2024-04-22-21_47_50.png" width="380" height="250" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/ERP-system/main/screenshots/screencapture-lgcetsys-logic-sbs-accounting-dashboard-2024-04-22-21_48_06.png" width="380" height="250" /></div>
 
 ---
 
