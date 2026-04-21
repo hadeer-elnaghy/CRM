@@ -47,7 +47,30 @@ Gain a competitive edge with real-time data visualization.
 
 ## 📸 Media Gallery
 
-<div align="center"><img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/screencapture-crm-logic-sbs-home-2024-04-22-22_59_25.png" width="340" height="250" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/screencapture-crm-logic-sbs-settings-2024-04-22-23_01_27.png" width="340" height="250" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/Screenshot%202024-04-22%20230057.png" width="340" height="250" /><img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/Screenshot%202024-04-22%20230019.png" width="340" height="250" /></div>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/screencapture-crm-logic-sbs-home-2024-04-22-22_59_25.png" alt="Home Dashboard"/><br />
+        <sub><b>Home Dashboard</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/screencapture-crm-logic-sbs-settings-2024-04-22-23_01_27.png" alt="System Settings"/><br />
+        <sub><b>System Settings</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/Screenshot%202024-04-22%20230057.png" alt="Lead Management"/><br />
+        <sub><b>Lead Management</b></sub>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/Screenshot%202024-04-22%20230019.png" alt="Client Database"/><br />
+        <sub><b>Client Database</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
