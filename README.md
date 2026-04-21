@@ -48,13 +48,13 @@ Gain a competitive edge with real-time data visualization.
 ## 📸 Media Gallery
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/screencapture-crm-logic-sbs-home-2024-04-22-22_59_25.png" width="800" alt="Home Dashboard" />
+  <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/screencapture-crm-logic-sbs-home-2024-04-22-22_59_25.png" width="400" height="250" />
+  <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/screencapture-crm-logic-sbs-settings-2024-04-22-23_01_27.png" width="400" height="250" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/screencapture-crm-logic-sbs-settings-2024-04-22-23_01_27.png" height="300" />
-  <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/Screenshot%202024-04-22%20230057.png" height="300" />
-  <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/Screenshot%202024-04-22%20230019.png" height="300" />
+  <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/Screenshot%202024-04-22%20230057.png" width="400" height="250" />
+  <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/Screenshot%202024-04-22%20230019.png" width="400" height="250" />
 </p>
 
 ---
