@@ -62,7 +62,7 @@ Gain a competitive edge with real-time data visualization.
     <tr>
       <td width="50%" align="center">
         <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/Screenshot%202024-04-22%20230057.png" alt="Lead Management"/><br />
-        <sub><b>Lead Management</b></sub>
+        <sub><b>Invoices Management</b></sub>
       </td>
       <td width="50%" align="center">
         <img src="https://raw.githubusercontent.com/hadeer-elnaghy/CRM/main/screenshots/Screenshot%202024-04-22%20230019.png" alt="Client Database"/><br />
